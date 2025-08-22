@@ -35,6 +35,10 @@ const Test = () => {
             type="submit"
             className="absolute top-0 end-0 p-2.5 text-sm font-medium h-full text-white bg-main rounded-e-lg border border-blue-700 hover:bg-main focus:ring-4 focus:outline-none focus:ring-skydeep dark:bg-main dark:hover:bg-skydeep dark:focus:ring-skydeep"
           >
+          <button
+            type="submit"
+            className="absolute top-0 end-0 p-2.5 text-sm font-medium h-full text-white bg-main rounded-e-lg border border-blue-700 hover:bg-main focus:ring-4 focus:outline-none focus:ring-skydeep dark:bg-main dark:hover:bg-skydeep dark:focus:ring-skydeep"
+          >
             <svg
               className="w-4 h-4"
               aria-hidden="true"
