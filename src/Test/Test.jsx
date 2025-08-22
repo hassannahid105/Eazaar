@@ -53,6 +53,8 @@ const Test = () => {
             <span className="sr-only">Search</span>
             <span className="sr-only">Search</span>
             <span className="sr-only">Search</span>
+            <span className="sr-only">Search</span>
+            <span className="sr-only">Search</span>
           </button>
         </div>
       </div>
